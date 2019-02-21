@@ -1,0 +1,33 @@
+{
+  "name": "konferenzraum",
+  "version": "1.0.0",
+  "description": "Conference Room Booking System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tensed/konferenzraum.git"
+  },
+  "keywords": [
+    "Conference",
+    "Booking",
+    "Room",
+    "Schedule"
+  ],
+  "author": "Team Amaryllis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tensed/konferenzraum/issues"
+  },
+  "homepage": "https://github.com/tensed/konferenzraum#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
